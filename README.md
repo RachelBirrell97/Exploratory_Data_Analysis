@@ -8,4 +8,5 @@ Project 1 - Automobile
 
 Project 2 - Student Performance
 
-Exploratory data analysis on a dataset called 'Student Performance in Exams Report’. This dataset is trying to investigate what factors influenced a group of American    students’ math, reading and writing scores.
+Exploratory data analysis on a dataset called 'Student Performance in Exams Report’. This dataset is trying to investigate what factors influenced a group of American    students’ math, reading and writing scores. 
+Files: StudentPerformance.csv, Student Performance Notebook, Student Performance Report
